@@ -67,7 +67,7 @@ elif secim == "Haber 5":
 
     🚨 Bu buluşma 2025’in en büyük yapay zeka flörtü olarak tarih kitaplarına girdi.
     """)
-    st.video(""https://youtube.com/shorts/DEeZWbE5Tyw?si=OpAxE8UN4wpaMvks"")
+    st.video("https://youtube.com/shorts/DEeZWbE5Tyw?si=OpAxE8UN4wpaMvks")
 
 st.markdown("---")
 st.caption("📺 FLASH TV • Mizahın en absürt haliyle sizlerle!")
